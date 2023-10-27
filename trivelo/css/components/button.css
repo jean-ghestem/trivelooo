@@ -1,0 +1,17 @@
+.btnblue {
+	background-color: #6D71DD;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+
+}
+.btnblue:hover {
+	background-color: #000099;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+}

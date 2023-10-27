@@ -1,0 +1,20 @@
+.banner {
+  background-image: url(../../images/cyclisme.jpg);
+ 	background-size: cover;     
+	background-position: center;
+}
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+	opacity: 0.8;
+}
+.banner {
+  background-image:
+    linear-gradient(-225deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.7) 50%),
+	url(../../images/cyclisme.jpg);
+}
